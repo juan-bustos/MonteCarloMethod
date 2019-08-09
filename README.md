@@ -1,7 +1,7 @@
 # MonteCarloMethod
 ## MonteCarlo
 
-##### Exercise - Value Types and Arrays COURSE: ISTA 220 tion you wish.
+### Exercise - Value Types and Arrays COURSE: ISTA 220.
 
 # Procedure
 #### :heavy_check_mark: Create a struct to hold x, y coordinates as doubles. 
